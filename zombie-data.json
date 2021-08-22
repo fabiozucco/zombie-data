@@ -5,6 +5,7 @@
     "job": "Enfermeira",
     "skill": "Liderança",
     "skin": "SurvivorOne",
+    "gender": "F",
     "profile": "ProfileOne",
     "isInfected": true,
     "markedAsInfected": false,
